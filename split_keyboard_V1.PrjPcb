@@ -98,7 +98,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=VOTTCUUP
 
 [Document4]
 DocumentPath=ABMM-16.000MHZ-12-R100-N2-XTAL.PcbLib
@@ -115,7 +115,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=CLSEXTOJ
 
 [Document5]
 DocumentPath=ABMM-16.000MHZ-12-R100-N2-XTAL.SchLib
@@ -149,7 +149,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=RGLNAEMH
 
 [Document7]
 DocumentPath=ATMEGA32U4.SchLib
@@ -183,7 +183,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=DMCOYOSO
 
 [Document9]
 DocumentPath=CGA2B2C0G1H180J050BA_CERAMIC_CAPACITOR.PcbLib
@@ -200,7 +200,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=CJPCICLB
 
 [Document10]
 DocumentPath=CGA3E2C0G1H070D080AA_CERAMIC_CAPACITOR.PcbLib
@@ -217,7 +217,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=QYKCDETJ
 
 [Document11]
 DocumentPath=CGA5L1C0G2A104J160AC_CERAMIC_CAPACITOR.PcbLib
@@ -234,7 +234,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=VXVVRVFS
 
 [Document12]
 DocumentPath=CX3225FB_XTAL.PcbLib
@@ -251,7 +251,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=KQJJSGHS
 
 [Document13]
 DocumentPath=DMN2056U-7_MOSFET.PcbLib
@@ -268,7 +268,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=FXWTIIDP
 
 [Document14]
 DocumentPath=DMN2056U-7_MOSFET.SchLib
@@ -285,7 +285,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=VFWMPKEB
 
 [Document15]
 DocumentPath=GW JTLMS1.EM-GWH4-XX51-1_WHITE_LEDS.PcbLib
@@ -302,7 +302,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=ASSCQRQU
 
 [Document16]
 DocumentPath=GW JTLMS1.EM-GWH4-XX51-1_WHITE_LEDS.SchLib
@@ -387,7 +387,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=PTOADBSQ
 
 [Document21]
 DocumentPath=MAX485_Schematic1.SchLib
@@ -472,7 +472,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=UKAJUNGQ
 
 [Document26]
 DocumentPath=SMD1206_RESISTOR.SchLib
@@ -506,7 +506,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=FQQAEPPW
 
 [Document28]
 DocumentPath=SWITCHES_KS9.SchLib
@@ -540,7 +540,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=QVRANOPU
 
 [Document30]
 DocumentPath=UJ20-C-H-G-SMT-2A-P16-TR_USB_CONNECTOR.SchLib
@@ -574,7 +574,24 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=WMNBDPCT
+
+[Document32]
+DocumentPath=4PIN_TACTILE_SWITCH.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=SVVXFHTB
 
 [Configuration1]
 Name=Sources
@@ -1545,70 +1562,16 @@ NetClassManualEnabled=1
 NetClassSeparateForBusSections=0
 
 [LibraryUpdateOptions]
-SelectedOnly=0
+SelectedOnly=1
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
-ComponentLibraryIdentifier0=1N4148W_DIODDE.SchLib
-ComponentDesignItemID0=1N4148W_DIODE
-ComponentSymbolReference0=1N4148W_DIODE
+ComponentLibraryIdentifier0=DMN2056U-7_MOSFET.SchLib
+ComponentDesignItemID0=DMN2056U-7_MOSFET
+ComponentSymbolReference0=DMN2056U-7_MOSFET
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
-ComponentLibIdentifierKind1=Library Name And Type
-ComponentLibraryIdentifier1=ABMM-16.000MHZ-12-R100-N2-XTAL.SchLib
-ComponentDesignItemID1=ABMM-XTAL
-ComponentSymbolReference1=ABMM-XTAL
-ComponentUpdate1=1
-ComponentIsDeviceSheet1=0
-ComponentLibIdentifierKind2=Library Name And Type
-ComponentLibraryIdentifier2=ATMEGA32U4.SchLib
-ComponentDesignItemID2=ATMEGA32U4
-ComponentSymbolReference2=ATMEGA32U4
-ComponentUpdate2=1
-ComponentIsDeviceSheet2=0
-ComponentLibIdentifierKind3=Library Name And Type
-ComponentLibraryIdentifier3=Ceramic_Capacator.SchLib
-ComponentDesignItemID3=ceramic condensator
-ComponentSymbolReference3=ceramic condensator
-ComponentUpdate3=1
-ComponentIsDeviceSheet3=0
-ComponentLibIdentifierKind4=Library Name And Type
-ComponentLibraryIdentifier4=DMN2056U-7_MOSFET.SchLib
-ComponentDesignItemID4=DMN2056U-7_MOSFET
-ComponentSymbolReference4=DMN2056U-7_MOSFET
-ComponentUpdate4=1
-ComponentIsDeviceSheet4=0
-ComponentLibIdentifierKind5=Library Name And Type
-ComponentLibraryIdentifier5=GW JTLMS1.EM-GWH4-XX51-1_WHITE_LEDS.SchLib
-ComponentDesignItemID5=LED
-ComponentSymbolReference5=LED
-ComponentUpdate5=1
-ComponentIsDeviceSheet5=0
-ComponentLibIdentifierKind6=Library Name And Type
-ComponentLibraryIdentifier6=shotkey_diode.SchLib
-ComponentDesignItemID6=shotkeyDiode
-ComponentSymbolReference6=shotkeyDiode
-ComponentUpdate6=1
-ComponentIsDeviceSheet6=0
-ComponentLibIdentifierKind7=Library Name And Type
-ComponentLibraryIdentifier7=SMD1206_RESISTOR.SchLib
-ComponentDesignItemID7=1206_SMD_RESISTOR
-ComponentSymbolReference7=1206_SMD_RESISTOR
-ComponentUpdate7=1
-ComponentIsDeviceSheet7=0
-ComponentLibIdentifierKind8=Library Name And Type
-ComponentLibraryIdentifier8=SWITCHES_KS9.SchLib
-ComponentDesignItemID8=keyboard_switch
-ComponentSymbolReference8=keyboard_switch
-ComponentUpdate8=1
-ComponentIsDeviceSheet8=0
-ComponentLibIdentifierKind9=Library Name And Type
-ComponentLibraryIdentifier9=UJ20-C-H-G-SMT-2A-P16-TR_USB_CONNECTOR.SchLib
-ComponentDesignItemID9=12pin_USB-CONNECTOR
-ComponentSymbolReference9=12pin_USB-CONNECTOR
-ComponentUpdate9=1
-ComponentIsDeviceSheet9=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
