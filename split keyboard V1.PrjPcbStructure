@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=IC_schematic.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=IC_schematic.SchDoc|FileName=KeyboardSchem_LEFT.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=IC_schematic.SchDoc|FileName=ledMatrix.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=IC_schematic.SchDoc|FileName=power_and_communication.SchDoc|SheetNumber=4
