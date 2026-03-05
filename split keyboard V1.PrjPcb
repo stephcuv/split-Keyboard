@@ -118,7 +118,7 @@ GenerateClassCluster=0
 DocumentUniqueId=JWQINWAU
 
 [Document5]
-DocumentPath=..\..\..\..\Thiemen\Desktop\lib\lib\libraries\schematic\pcbV1.PcbDoc
+DocumentPath=pcbV1.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1145,7 +1145,7 @@ ComponentUpdate5=1
 ComponentIsDeviceSheet5=0
 ComponentLibIdentifierKind6=Library Name And Type
 ComponentLibraryIdentifier6=MICROCHIP LIBRARY.SchLib
-ComponentDesignItemID6=
+ComponentDesignItemID6=ATMEGA32U4
 ComponentSymbolReference6=ATMEGA32U4
 ComponentUpdate6=1
 ComponentIsDeviceSheet6=0
