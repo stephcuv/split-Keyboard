@@ -100,6 +100,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TMLJRVLR
 
+[Document4]
+DocumentPath=keyboard_ledMatrix.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=UWEVQECS
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
